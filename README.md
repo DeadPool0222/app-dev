@@ -2,8 +2,8 @@
 My first repository
 ### BEN10
 ---
--  BEN item
-- GWEN item
-- 4ARMS item
+-  BEN
+- GWEN
+- 4ARMS
 
 - > "With great power comes great irresponsibility." BEN10
